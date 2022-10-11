@@ -85,8 +85,8 @@ Week  | Video lectures | Class topic | Slides | JAMOVI youtube | Homework
 10/3 | | 개천절: (**R**) Sampling (standard error of the mean, confidence interval) | | |
 10/5 | | (**R**) T-tests | |   | |
 **Week 7** | | | |
-10/10 | | (**O**) T-tests hands-on | |  | HW1, due: 10/21 | 
-10/12 | | (**R**) Resampling (bootstrap and permutation) | | |
+10/10 | | (**R**) Resampling (bootstrap and permutation) | | |
+10/12 | | (**O**) T-tests hands-on | |  | HW1, due: 10/23 | 
 **Week 8** | | | |
 10/17 | | (**R**) Chi-square test| |  | |  |  
 10/19 | | (**O**) Chi-square test hands-on & ANOVA review | | |
