@@ -92,7 +92,7 @@ Week  | Video lectures | Class topic | Slides | JAMOVI youtube | Homework
 10/19 | | (**O**) Chi-square test hands-on | | |
 **Week 9** | | | |
 10/24 | | (**R**) ANOVA in JAMOVI |  |  | |
-10/26 | | (**O**) ANOVA hands-on |  | [HW2](https://github.com/wanirepo/Stats2_2022Fall/blob/master/hw_assignment/hw02.md), due: 11/6|
+10/26 | | (**O**) ANOVA hands-on |  | | [HW2](https://github.com/wanirepo/Stats2_2022Fall/blob/master/hw_assignment/hw02.md), due: 11/6|
 **Week 10** | | | |
 10/31 | | (**R**) ANOVA - advanced |  |  | |
 11/2 | | (**R**) Correlation, Multiple regression (basics) - basic stats, R-squared |  | | | 
