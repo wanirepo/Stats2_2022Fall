@@ -97,7 +97,7 @@ Week  | Video lectures | Class topic | Slides | JAMOVI youtube | Homework
 10/31 | | (**R**) ANOVA - advanced |  |  | |
 11/2 | | (**R**) Correlation, Multiple regression (basics) - basic stats, R-squared |  | | | 
 **Week 11** | | | |
-11/7 | | (**O**) Multiple Regression hands-on | | | HW3, due: 11/18 | |
+11/7 | | (**O**) Multiple Regression hands-on | | | [HW3](https://github.com/wanirepo/Stats2_2022Fall/blob/master/hw_assignment/hw03.md), due: 11/18 | |
 11/9 | | (**R**) Multiple regression advanced  |  |  |
 **Week 12** | | | |
 11/14 | | (**R**) Multi-level GLM |  |  |
