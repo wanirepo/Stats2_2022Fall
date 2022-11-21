@@ -109,8 +109,8 @@ Week  | Video lectures | Class topic | Slides | JAMOVI youtube | Homework
 11/28 | | (**R**) Machine learning and cross-validation |  |
 11/30 | | (**O**) HW 1-3 reviews, Q&A |  |
 **Week 15** | | | |
-12/5| | (**O**) Reviews |  |
-12/7 | | (**O**) Reviews |  |
+12/5| |  Reviews |  |
+12/7 | |  Reviews |  |
 
 
 _Note._ <br> 
